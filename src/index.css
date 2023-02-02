@@ -22,4 +22,6 @@
     --container-width-sm: 90%;
 }
 
-
+::-webkit-scrollbar{
+    display: none;
+}
