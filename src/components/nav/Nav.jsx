@@ -8,13 +8,13 @@ import { IoIosContact} from "react-icons/io";
 
 const Nav = () => {
   return (
-    <div>
+    <nav>
       <a href="#"><AiOutlineHome/></a>
       <a href="#about"><BsInfoCircle/></a>
       <a href="#experience"><BsBriefcase/></a>
       <a href="#services"><MdComputer/></a>
       <a href="#contact"><IoIosContact/></a>
-    </div>
+    </nav>
   )
 }
 
