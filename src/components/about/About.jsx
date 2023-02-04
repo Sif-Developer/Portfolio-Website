@@ -40,10 +40,13 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa
-            voluptatem sapiente delectus inventore cupiditate magni enim dolores
-            repellendus eius rem, cum ad eaque, natus eos. Architecto incidunt
-            aliquam quos! Ratione?
+          👦🏻 I'm a recent graduate from The Bridge Digital Talent Accelerator 🎓where I specialized in the MERN stack (MongoDB, Express, React, Node.js). <br /><br />
+
+💻 Ever since I was a child, I've been fascinated by technology and how it can improve people's lives. This interest led me study web development and later, to join The Bridge. <br /><br />
+
+🔧 During my training, I acquired valuable programming and problem-solving skills, and participated in team projects that allowed me to put my learning into practice. <br /> <br />
+
+💬 I'm available to work on both remote and office projects, and I'm always open to listen and learn from more experienced developers.
           </p>
             
           <a href="#contact" className="btn btn-primary about__btn">
