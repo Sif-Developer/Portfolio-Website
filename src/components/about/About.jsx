@@ -7,7 +7,6 @@ import { RiFoldersFill } from "react-icons/ri";
 const About = () => {
   return (
     <section id="about">
-      About
       <h5>Get To Know</h5>
       <h2>About me</h2>
       <div className="container about__container">
@@ -47,7 +46,7 @@ const About = () => {
             aliquam quos! Ratione?
           </p>
             
-          <a href="#contact" className="btn btn-primary">
+          <a href="#contact" className="btn btn-primary about__btn">
             Let's Talk
           </a>
         </div>

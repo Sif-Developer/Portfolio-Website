@@ -97,12 +97,33 @@
 
 }
 .about__cards{
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr ;
+  gap: 0.7rem;
+}
+.about__card{
+  width: 19.5rem;
+  height: 5rem;
+  margin: auto;
+  overflow: auto;
 }
 .about__content{
   text-align: center;
 }
 .about__content p{
-  margin-top: 23rem;
+  margin-top: 14rem;
 }
+
+.about__icon {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.about__card h5 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+.about__card small {
+  font-size: 0.7rem;
+}
+
 }
