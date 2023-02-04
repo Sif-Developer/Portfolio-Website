@@ -38,13 +38,13 @@ header {
 /*--------ME---------- */
 
 .me {
-  background: linear-gradient(var(--green), transparent);
+  background: linear-gradient(0deg,var(--green), transparent);
   background-size: cover;
-  width: 21rem;
-  height: 20rem;
+  width: 20rem;
+  height: 25rem;
   border-radius: 20rem 20rem 0 0;
   overflow: hidden;
-  padding: 4.7rem 1rem 6rem 1.5rem;
+  padding: 0rem 0rem 1rem 0rem;
   display: flex;
   flex-direction: column;
   align-items: center;

@@ -46,7 +46,7 @@ const About = () => {
             repellendus eius rem, cum ad eaque, natus eos. Architecto incidunt
             aliquam quos! Ratione?
           </p>
-
+            
           <a href="#contact" className="btn btn-primary">
             Let's Talk
           </a>
