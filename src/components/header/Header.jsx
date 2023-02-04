@@ -16,7 +16,7 @@ const Header = () => {
           Scroll Down
         </a>
       <div className="me">
-        <img src={ME} alt="my-profile-picture" />
+        <img src={ME} className="header__img" alt="my-profile-picture" />
       </div>
 
     </header>
