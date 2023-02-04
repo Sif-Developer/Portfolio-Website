@@ -18,7 +18,8 @@ const Header = () => {
       <div className="me">
         <img src={ME} className="header__img" alt="my-profile-picture" />
       </div>
-
+      <div>
+      </div>
     </header>
   );
 };

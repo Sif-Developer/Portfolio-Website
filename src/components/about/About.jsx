@@ -38,23 +38,18 @@ const About = () => {
                 15+ Completed <br /> Projects
               </small>
             </article>
-
-            <div className="about__text-and-btn">
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Distinctio incidunt, unde reiciendis repudiandae dolores
-                quisquam, esse quasi obcaecati amet, explicabo voluptatem ullam
-                voluptate dignissimos maiores! Aliquam molestiae unde iusto!
-                Eius!
-              </p>
-
-              <div className="contact__btn-container">
-                <a href="#contact" className="btn btn-primary">
-                  Let's Talk
-                </a>
-              </div>
-            </div>
           </div>
+
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa
+            voluptatem sapiente delectus inventore cupiditate magni enim dolores
+            repellendus eius rem, cum ad eaque, natus eos. Architecto incidunt
+            aliquam quos! Ratione?
+          </p>
+
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>

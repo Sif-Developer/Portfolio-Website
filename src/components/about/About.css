@@ -34,6 +34,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
+  max-height: 4rem;
 }
 
 .about__card {
@@ -69,7 +70,9 @@
 .about__content p{
   margin: 2rem 0 2.6rem;
   color: var(--light-blue);
+margin-top: 10rem;  
 }
+
 
 /*----------MEDIA QUERIES (MEDIUM DEVICES)-------------*/
 
